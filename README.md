@@ -7,8 +7,8 @@
 Part of the [Aireamos.org project](https://aireamos.org), member of the [Covid Warriors Community](https://www.covidwarriors.org).
 
 ## MEMBERS
-mgesteiro
-heba.es
+* mgesteiro
+* heba.es
 
 ## LICENSE
 
