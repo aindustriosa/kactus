@@ -4,6 +4,8 @@
 
 **K**eep **A**ir **C**lean **t**o **US**
 
+An opensource and openhardware CO2 sensor created to help prevent the COVID-19 virus spreading.
+
 Part of the [Aireamos.org project](https://aireamos.org), member of the [Covid Warriors Community](https://www.covidwarriors.org).
 
 
